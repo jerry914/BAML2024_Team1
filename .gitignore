@@ -1,0 +1,10 @@
+Data/*
+Result/*
+!Data/.keep
+!Result/.keep
+.Rproj.user
+.Rproj
+.Rhistory
+.RDataTmp
+TeamProj.Rproj
+.DS_Store
